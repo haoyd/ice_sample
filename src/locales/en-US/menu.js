@@ -32,6 +32,10 @@ export default {
   'app.menu.exception.403': 'Not Permission',
   'app.menu.exception.500': 'Server Error',
 
+  // 自定义
+  'app.menu.demo':'Demo',
+  'app.menu.demo.form':'From Demo',
+
   // Top Header
   'app.header.feedback': 'Feedback',
   'app.header.help': 'Help',

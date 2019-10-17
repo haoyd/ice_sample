@@ -32,6 +32,10 @@ export default {
   'app.menu.exception.403': '403',
   'app.menu.exception.500': '500',
 
+  // 自定义
+  'app.menu.demo':'示例代码',
+  'app.menu.demo.form':'表单测试',
+
   // Top Header
   'app.header.feedback': '反馈',
   'app.header.help': '帮助',
